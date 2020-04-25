@@ -1,0 +1,31 @@
+div#homepage {
+    background-color: indianred;
+    height: 300px;
+    width: 800px;
+    text-align: center;
+    margin: 100px auto;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+}
+
+html {
+    background-color: lightpink;
+}
+
+body{
+    background-color: lightpink;
+}
+
+button#view-btn {
+    margin-right: 20px;
+    border: 2px solid lightskyblue;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+button#res-btn{
+    margin-right: 20px;
+    border: 2px solid lightskyblue;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.5);
+ }
